@@ -1,0 +1,2 @@
+# A-Quantitative-Greenwashing-Index-for-the-Luxury-Sector
+Built a Greenwashing Index to audit luxury fashion's "Talk-Walk" gap. Analyzing 21,150 texts via entity resolution &amp; LDA modeling on 32 brands reveals "Narrative Decoupling." Objective ESG scores show almost 0 correlation with media greenwashing risk, proving corporate reporting &amp; public environmental narratives act as entirely independent systems.
