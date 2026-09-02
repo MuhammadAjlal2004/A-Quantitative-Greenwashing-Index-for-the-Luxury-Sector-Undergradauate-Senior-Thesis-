@@ -21,7 +21,7 @@ Visualizations, statistical outputs, and the final Greenwashing Index results ha
 - Engineered the script to slice documents into individual sentences, feeding the LDA algorithm *only* sentences containing greenwashing keywords.
 - Applied hyper-refined stopword filtering using `scikit-learn` and regular expressions to strip numerical dates, publisher boilerplate, and legal jargon.
 
-## Key Findings: The "Visibility Trap"
+## Key Findings
 The statistical analysis revealed a profound decoupling between objective corporate disclosures and public narratives:
 - **Zero Correlation:** Both the Pearson and Spearman Rank correlation between objective S&P Global CSA Scores and media greenwashing risk are near-zero.
 - **Lacking Statistical Pattern:** Visualizations like the slope chart and quadrant map lack any statistical pattern.
